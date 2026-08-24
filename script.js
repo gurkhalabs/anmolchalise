@@ -45,7 +45,7 @@ const _0x49f3 = [
     'Anmol leads Gurkha Labs, helping startups and businesses design, build, and scale web applications, mobile apps, AI products, SaaS platforms, and custom software.',
     'active',
     'team',
-    'With more than 10 years of experience building digital products, Anmol has worked with startups, enterprises, and education platforms. Today he leads Gurkha Labs, delivering reliable software solutions for clients worldwide.',
+    'With more than 11 years of experience building digital products, Anmol has worked with startups, enterprises, and education platforms. Today he leads Gurkha Labs, delivering reliable software solutions for clients worldwide.',
     'i',
     'build',
     'Absolutely. Gurkha Labs partners with startups and businesses looking for experienced engineers to build reliable web, mobile, and AI products.',
