@@ -1,157 +1,307 @@
-const _0x49f3 = [
-    'user',
-    'studio',
-    'innerHeight',
-    'fa-moon',
-    'I can answer questions about Gurkha Labs, software development, AI solutions, web and mobile apps, Anmol\'s experience, or how we can help with your next project.',
-    'radius',
-    'style',
-    'beginPath',
-    'hire',
-    'cost',
-    'chat-open',
-    'name',
-    'scrollHeight',
-    'length',
-    'random',
-    'skill',
-    'chat-messages',
-    'forEach',
-    'theme-toggle',
-    'fill',
-    'artificial intelligence',
-    'arc',
-    'classList',
-    'getHours',
-    'keypress',
-    'hey',
-    'x',
-    'remove',
-    'none',
-    'block',
-    '',
-    'vx',
-    'width',
-    'addEventListener',
-    'textContent',
-    'from',
-    'add',
-    'stroke',
-    'Gurkha Labs is a senior-led software studio designing and engineering web, mobile, and AI systems for teams that need reliable delivery.',
-    'hidden',
-    'rgba(100,200,255,',
-    'mobile',
-    'ai',
-    'Anmol leads Gurkha Labs, helping startups and businesses design, build, and scale web applications, mobile apps, AI products, SaaS platforms, and custom software.',
-    'active',
-    'team',
-    'With more than 11 years of experience building digital products, Anmol has worked with startups, enterprises, and education platforms. Today he leads Gurkha Labs, delivering reliable software solutions for clients worldwide.',
-    'i',
-    'build',
-    'Absolutely. Gurkha Labs partners with startups and businesses looking for experienced engineers to build reliable web, mobile, and AI products.',
-    'lineWidth',
-    'contact',
-    'focus',
-    'value',
-    'price',
-    'rgba(0,115,177,0.7)',
-    'y',
-    'toLowerCase',
-    'developer',
-    'I\'m Anmol Chalise, Co-founder of Gurkha Labs\u2014a senior-led software studio building reliable web, mobile, and AI solutions for startups and businesses.',
-    'getContext',
-    'portfolio',
-    'push',
-    'toggle',
-    'background',
-    'fillStyle',
-    'rgba(0,115,177,',
-    'open-chat',
-    'Hi! I\'m Anmol\'s AI assistant. Ask me about Gurkha Labs, our software development services, Anmol\'s experience, or how to start your project.',
-    'work',
-    'fa-sun',
-    'Co-founder \u2022 Gurkha Labs',
-    'changing-title-3',
-    'body',
-    'machine learning',
-    'chat-close',
-    'user-input',
-    'contains',
-    'display',
-    'Gurkha Labs provides web development, mobile app development, AI integration, SaaS development, custom software engineering, UI/UX implementation, API development, cloud deployment, and ongoing technical support.',
-    'moveTo',
-    'lineTo',
-    '-message',
-    'click',
-    'phone',
-    'app',
-    'flex',
-    'company',
-    'experience',
-    'scrollTop',
-    'resize',
-    'Every project is different. After understanding your requirements, Gurkha Labs can provide a tailored proposal and estimated timeline.',
-    'We help businesses integrate AI into their products, automate workflows, build AI-powered applications, and create practical solutions using modern AI technologies.',
-    'linkedin',
-    'expert',
-    'getElementById',
-    'key',
-    'chat-icon',
-    'Anmol specializes in software architecture, full-stack development, mobile apps, AI integration, cloud solutions, product strategy, and leading engineering teams from idea to production.',
-    'rgba(0,115,177,0.5)',
-    'preventDefault',
-    'overflow',
-    'service',
-    'hello',
-    'fillRect',
-    'Gurkha Labs works on SaaS platforms, web applications, mobile apps, AI-powered products, internal business tools, and custom software tailored to each client\'s needs.',
-    'to',
-    'what do you do',
-    'offer',
-    'trim',
-    '2d',
-    'You can contact Anmol via email at anmolchalise.np@gmail.com, connect on LinkedIn, or reach out through Gurkha Labs to discuss your next software project.',
-    'changing-title-1',
-    'createElement',
-    'PI',
-    'typing-indicator',
-    'rgba(240,240,245,0.1)',
-    'gurkha',
-    'hi',
-    'send-btn',
-    'opacity',
-    'email',
-    'vy',
-    'tech stack',
-    'DOMContentLoaded',
-    'appendChild',
-    'who are you',
-    'div',
-    'sqrt',
-    'innerWidth',
-    'message',
-    'querySelector',
-    'budget',
-    'Enter',
-    'Software Architecture & Engineering',
-    'technology',
-    'strokeStyle',
-    'dark-mode',
-    ')',
-    'website',
-    'day-mode',
-    'includes',
-    'quote',
-    'partner',
-    'client',
-    'height',
-    'bot',
-    'project',
-    'rgba(25,25,35,0.1)',
-    'changing-title-2',
-    'chat-overlay',
-    'tech-bg',
-    'Building Software That Ships'
-];
-function _0xb42f(i){ return _0x49f3[i - 436]; }
-document[_0xb42f(469)](_0xb42f(560),function(){const _0xa606a=document[_0xb42f(531)](_0xb42f(587));const _0x24679=_0xa606a[_0xb42f(496)](_0xb42f(546));function _0xa7438(){_0xa606a[_0xb42f(468)]=window[_0xb42f(565)];_0xa606a[_0xb42f(581)]=window[_0xb42f(438)];}window[_0xb42f(469)](_0xb42f(526),_0xa7438);_0xa7438();const _0x35122=[];const _0x34da6=[];const _0x78c72=50;for(let _0xfec6b=0;_0xfec6b<_0x78c72;_0xfec6b++){_0x35122[_0xb42f(498)]({[_0xb42f(462)]:Math[_0xb42f(450)]()*_0xa606a[_0xb42f(468)],[_0xb42f(492)]:Math[_0xb42f(450)]()*_0xa606a[_0xb42f(581)],[_0xb42f(441)]:2*Math[_0xb42f(450)]()+1,[_0xb42f(467)]:0.5*(Math[_0xb42f(450)]()-0.5),[_0xb42f(558)]:0.5*(Math[_0xb42f(450)]()-0.5)});}for(let _0xfec6b=0;_0xfec6b<_0x35122[_0xb42f(449)];_0xfec6b++){for(let _0xc9fd7=_0xfec6b+1;_0xc9fd7<_0x35122[_0xb42f(449)];_0xc9fd7++){const _0xde695=_0x35122[_0xfec6b][_0xb42f(462)]-_0x35122[_0xc9fd7][_0xb42f(462)];const _0x19ed5=_0x35122[_0xfec6b][_0xb42f(492)]-_0x35122[_0xc9fd7][_0xb42f(492)];const _0x14f31=Math[_0xb42f(564)](_0xde695*_0xde695+_0x19ed5*_0x19ed5);if(_0x14f31<150){_0x34da6[_0xb42f(498)]({[_0xb42f(471)]:_0xfec6b,[_0xb42f(542)]:_0xc9fd7,[_0xb42f(449)]:_0x14f31,[_0xb42f(556)]:1-_0x14f31/150});}}}function _0xf2d29(){_0x24679[_0xb42f(501)]=document[_0xb42f(509)][_0xb42f(458)][_0xb42f(513)](_0xb42f(576))?_0xb42f(552):_0xb42f(584);_0x24679[_0xb42f(540)](0,0,_0xa606a[_0xb42f(468)],_0xa606a[_0xb42f(581)]);_0x35122[_0xb42f(453)](_0x93c39=>{_0x93c39[_0xb42f(462)]+=_0x93c39[_0xb42f(467)];_0x93c39[_0xb42f(492)]+=_0x93c39[_0xb42f(558)];if(_0x93c39[_0xb42f(462)]<0||_0x93c39[_0xb42f(462)]>_0xa606a[_0xb42f(468)])_0x93c39[_0xb42f(467)]*=-1;if(_0x93c39[_0xb42f(492)]<0||_0x93c39[_0xb42f(492)]>_0xa606a[_0xb42f(581)])_0x93c39[_0xb42f(558)]*=-1;_0x24679[_0xb42f(443)]();_0x24679[_0xb42f(457)](_0x93c39[_0xb42f(462)],_0x93c39[_0xb42f(492)],_0x93c39[_0xb42f(441)],0,2*Math[_0xb42f(550)]);_0x24679[_0xb42f(501)]=document[_0xb42f(509)][_0xb42f(458)][_0xb42f(513)](_0xb42f(576))?_0xb42f(535):_0xb42f(491);_0x24679[_0xb42f(455)]();});_0x34da6[_0xb42f(453)](_0xdd582=>{const _0xe54e1=_0x35122[_0xdd582[_0xb42f(471)]];const _0x025e3=_0x35122[_0xdd582[_0xb42f(542)]];const _0xde695=_0xe54e1[_0xb42f(462)]-_0x025e3[_0xb42f(462)];const _0x19ed5=_0xe54e1[_0xb42f(492)]-_0x025e3[_0xb42f(492)];const _0x14f31=Math[_0xb42f(564)](_0xde695*_0xde695+_0x19ed5*_0x19ed5);_0xdd582[_0xb42f(556)]=1-_0x14f31/150;if(_0xdd582[_0xb42f(556)]<0)_0xdd582[_0xb42f(556)]=0;_0x24679[_0xb42f(443)]();_0x24679[_0xb42f(516)](_0xe54e1[_0xb42f(462)],_0xe54e1[_0xb42f(492)]);_0x24679[_0xb42f(517)](_0x025e3[_0xb42f(462)],_0x025e3[_0xb42f(492)]);_0x24679[_0xb42f(572)]=document[_0xb42f(509)][_0xb42f(458)][_0xb42f(513)](_0xb42f(576))?_0xb42f(502)+0.3*_0xdd582[_0xb42f(556)]+_0xb42f(574):_0xb42f(476)+0.5*_0xdd582[_0xb42f(556)]+_0xb42f(574);_0x24679[_0xb42f(486)]=0.5;_0x24679[_0xb42f(473)]();});requestAnimationFrame(_0xf2d29);}_0xf2d29();const _0xa5afa=[_0xb42f(507),_0xb42f(570),_0xb42f(588)];const _0x9a79c=[document[_0xb42f(531)](_0xb42f(548)),document[_0xb42f(531)](_0xb42f(585)),document[_0xb42f(531)](_0xb42f(508))];let _0x2dd0a=0;_0x9a79c[_0xb42f(453)]((_0xad3c8,_0xfec6b)=>{_0xad3c8[_0xb42f(470)]=_0xa5afa[_0xfec6b];if(_0xfec6b===0)_0xad3c8[_0xb42f(458)][_0xb42f(472)](_0xb42f(480));});setInterval(()=>{_0x9a79c[_0x2dd0a][_0xb42f(458)][_0xb42f(463)](_0xb42f(480));_0x2dd0a=(_0x2dd0a+1)%_0xa5afa[_0xb42f(449)];setTimeout(()=>{_0x9a79c[_0x2dd0a][_0xb42f(458)][_0xb42f(472)](_0xb42f(480));},300);},3000);const _0x76f4c=document[_0xb42f(531)](_0xb42f(454));const _0x9481a=_0x76f4c[_0xb42f(567)](_0xb42f(483));function _0x88dbb(){const _0x6c637=new Date()[_0xb42f(459)]();const _0xb20e0=_0x6c637>=6&&_0x6c637<18;if(_0xb20e0){document[_0xb42f(509)][_0xb42f(458)][_0xb42f(472)](_0xb42f(576));document[_0xb42f(509)][_0xb42f(458)][_0xb42f(463)](_0xb42f(573));_0x9481a[_0xb42f(458)][_0xb42f(463)](_0xb42f(506));_0x9481a[_0xb42f(458)][_0xb42f(472)](_0xb42f(439));}else{document[_0xb42f(509)][_0xb42f(458)][_0xb42f(472)](_0xb42f(573));document[_0xb42f(509)][_0xb42f(458)][_0xb42f(463)](_0xb42f(576));_0x9481a[_0xb42f(458)][_0xb42f(463)](_0xb42f(439));_0x9481a[_0xb42f(458)][_0xb42f(472)](_0xb42f(506));}}_0x88dbb();_0x76f4c[_0xb42f(469)](_0xb42f(519),function(){document[_0xb42f(509)][_0xb42f(458)][_0xb42f(499)](_0xb42f(576));document[_0xb42f(509)][_0xb42f(458)][_0xb42f(499)](_0xb42f(573));if(document[_0xb42f(509)][_0xb42f(458)][_0xb42f(513)](_0xb42f(573))){_0x9481a[_0xb42f(458)][_0xb42f(463)](_0xb42f(439));_0x9481a[_0xb42f(458)][_0xb42f(472)](_0xb42f(506));}else{_0x9481a[_0xb42f(458)][_0xb42f(463)](_0xb42f(506));_0x9481a[_0xb42f(458)][_0xb42f(472)](_0xb42f(439));}});const _0x6526c=document[_0xb42f(531)](_0xb42f(533));const _0x93f78=document[_0xb42f(531)](_0xb42f(503));const _0x1add2=document[_0xb42f(531)](_0xb42f(511));const _0x69b74=document[_0xb42f(531)](_0xb42f(452));const _0x78210=document[_0xb42f(531)](_0xb42f(512));const _0xf1cdd=document[_0xb42f(531)](_0xb42f(555));const _0xdc099=document[_0xb42f(531)](_0xb42f(551));const _0x75506=document[_0xb42f(531)](_0xb42f(586));function _0x98bdf(){document[_0xb42f(509)][_0xb42f(458)][_0xb42f(472)](_0xb42f(446));_0x75506[_0xb42f(442)][_0xb42f(514)]=_0xb42f(465);_0x78210[_0xb42f(488)]();if(window[_0xb42f(565)]<=768){document[_0xb42f(509)][_0xb42f(442)][_0xb42f(537)]=_0xb42f(475);}}function _0x0c6db(){document[_0xb42f(509)][_0xb42f(458)][_0xb42f(463)](_0xb42f(446));_0x75506[_0xb42f(442)][_0xb42f(514)]=_0xb42f(464);document[_0xb42f(509)][_0xb42f(442)][_0xb42f(537)]=_0xb42f(466);}function _0xff8d5(){const _0xe80da=_0x78210[_0xb42f(489)][_0xb42f(545)]();if(_0xe80da===_0xb42f(466))return;_0x761d6(_0xe80da,_0xb42f(436));_0x78210[_0xb42f(489)]=_0xb42f(466);_0xdc099[_0xb42f(442)][_0xb42f(514)]=_0xb42f(522);_0x69b74[_0xb42f(525)]=_0x69b74[_0xb42f(448)];setTimeout(()=>{_0xdc099[_0xb42f(442)][_0xb42f(514)]=_0xb42f(464);const _0xab0af=_0x2ebf5(_0xe80da);_0x761d6(_0xab0af,_0xb42f(582));_0x69b74[_0xb42f(525)]=_0x69b74[_0xb42f(448)];},1000);}function _0x761d6(_0xe80da,_0x637f8){const _0xaad18=document[_0xb42f(549)](_0xb42f(563));_0xaad18[_0xb42f(458)][_0xb42f(472)](_0xb42f(566),_0x637f8+_0xb42f(518));_0xaad18[_0xb42f(470)]=_0xe80da;_0x69b74[_0xb42f(561)](_0xaad18);_0x69b74[_0xb42f(525)]=_0x69b74[_0xb42f(448)];}function _0x2ebf5(_0x9d1ce){const _0xe80da=_0x9d1ce[_0xb42f(493)]();if(_0xe80da[_0xb42f(577)](_0xb42f(539))||_0xe80da[_0xb42f(577)](_0xb42f(554))||_0xe80da[_0xb42f(577)](_0xb42f(461))){return _0xb42f(504);}if(_0xe80da[_0xb42f(577)](_0xb42f(447))||_0xe80da[_0xb42f(577)](_0xb42f(562))){return _0xb42f(495);}if(_0xe80da[_0xb42f(577)](_0xb42f(553))||_0xe80da[_0xb42f(577)](_0xb42f(523))||_0xe80da[_0xb42f(577)](_0xb42f(437))){return _0xb42f(474);}if(_0xe80da[_0xb42f(577)](_0xb42f(505))||_0xe80da[_0xb42f(577)](_0xb42f(543))){return _0xb42f(479);}if(_0xe80da[_0xb42f(577)](_0xb42f(538))||_0xe80da[_0xb42f(577)](_0xb42f(544))||_0xe80da[_0xb42f(577)](_0xb42f(484))||_0xe80da[_0xb42f(577)](_0xb42f(575))||_0xe80da[_0xb42f(577)](_0xb42f(521))||_0xe80da[_0xb42f(577)](_0xb42f(477))){return _0xb42f(515);}if(_0xe80da[_0xb42f(577)](_0xb42f(478))||_0xe80da[_0xb42f(577)](_0xb42f(456))||_0xe80da[_0xb42f(577)](_0xb42f(510))){return _0xb42f(528);}if(_0xe80da[_0xb42f(577)](_0xb42f(451))||_0xe80da[_0xb42f(577)](_0xb42f(530))||_0xe80da[_0xb42f(577)](_0xb42f(571))||_0xe80da[_0xb42f(577)](_0xb42f(559))){return _0xb42f(534);}if(_0xe80da[_0xb42f(577)](_0xb42f(524))||_0xe80da[_0xb42f(577)](_0xb42f(500))){return _0xb42f(482);}if(_0xe80da[_0xb42f(577)](_0xb42f(583))||_0xe80da[_0xb42f(577)](_0xb42f(497))||_0xe80da[_0xb42f(577)](_0xb42f(580))){return _0xb42f(541);}if(_0xe80da[_0xb42f(577)](_0xb42f(490))||_0xe80da[_0xb42f(577)](_0xb42f(445))||_0xe80da[_0xb42f(577)](_0xb42f(578))||_0xe80da[_0xb42f(577)](_0xb42f(568))){return _0xb42f(527);}if(_0xe80da[_0xb42f(577)](_0xb42f(444))||_0xe80da[_0xb42f(577)](_0xb42f(494))||_0xe80da[_0xb42f(577)](_0xb42f(481))||_0xe80da[_0xb42f(577)](_0xb42f(579))){return _0xb42f(485);}if(_0xe80da[_0xb42f(577)](_0xb42f(487))||_0xe80da[_0xb42f(577)](_0xb42f(557))||_0xe80da[_0xb42f(577)](_0xb42f(520))||_0xe80da[_0xb42f(577)](_0xb42f(529))){return _0xb42f(547);}return _0xb42f(440);}_0x6526c[_0xb42f(469)](_0xb42f(519),_0x98bdf);if(_0x93f78){_0x93f78[_0xb42f(469)](_0xb42f(519),function(_0x72480){_0x72480[_0xb42f(536)]();_0x98bdf();});}_0x1add2[_0xb42f(469)](_0xb42f(519),_0x0c6db);_0x75506[_0xb42f(469)](_0xb42f(519),function(){if(window[_0xb42f(565)]<=768)_0x0c6db();});_0xf1cdd[_0xb42f(469)](_0xb42f(519),_0xff8d5);_0x78210[_0xb42f(469)](_0xb42f(460),function(_0x72480){if(_0x72480[_0xb42f(532)]===_0xb42f(569))_0xff8d5();});});
+
+document.addEventListener("DOMContentLoaded", function () {
+
+    // 1. Animated technology background
+    const canvas = document.getElementById("tech-bg");
+    const ctx = canvas.getContext("2d");
+
+    let particles = [];
+    const particleCount = 50;
+
+    function resizeCanvas() {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+
+        particles = [];
+
+        for (let i = 0; i < particleCount; i++) {
+            particles.push({
+                x: Math.random() * canvas.width,
+                y: Math.random() * canvas.height,
+                radius: Math.random() * 2 + 1,
+                vx: (Math.random() - 0.5) * 0.5,
+                vy: (Math.random() - 0.5) * 0.5
+            });
+        }
+    }
+
+    function drawBackground() {
+        const light = document.body.classList.contains("day-mode");
+
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        particles.forEach(p => {
+            p.x += p.vx;
+            p.y += p.vy;
+
+            if (p.x < 0 || p.x > canvas.width) p.vx *= -1;
+            if (p.y < 0 || p.y > canvas.height) p.vy *= -1;
+
+            ctx.beginPath();
+            ctx.arc(p.x, p.y, p.radius, 0, Math.PI * 2);
+            ctx.fillStyle = light
+                ? "rgba(0,115,177,0.7)"
+                : "rgba(100,200,255,0.7)";
+            ctx.fill();
+        });
+
+        for (let i = 0; i < particles.length; i++) {
+            for (let j = i + 1; j < particles.length; j++) {
+                const dx = particles[i].x - particles[j].x;
+                const dy = particles[i].y - particles[j].y;
+                const distance = Math.sqrt(dx * dx + dy * dy);
+
+                if (distance < 150) {
+                    ctx.beginPath();
+                    ctx.moveTo(particles[i].x, particles[i].y);
+                    ctx.lineTo(particles[j].x, particles[j].y);
+
+                    ctx.strokeStyle = light
+                        ? `rgba(0,115,177,${(1 - distance / 150) * 0.3})`
+                        : `rgba(100,200,255,${(1 - distance / 150) * 0.5})`;
+
+                    ctx.lineWidth = 0.5;
+                    ctx.stroke();
+                }
+            }
+        }
+
+        requestAnimationFrame(drawBackground);
+    }
+
+    resizeCanvas();
+    drawBackground();
+    window.addEventListener("resize", resizeCanvas);
+
+
+    // 2. Rotating professional titles
+    const titles = [
+        "Co-founder & Chief Product Officer",
+        "Product Strategy & Leadership",
+        "Building Digital Products That Matter",
+        "11+ Years in Technology"
+    ];
+
+    const titleElements = titles.map((_, i) =>
+        document.getElementById(`changing-title-${i + 1}`)
+    ).filter(Boolean);
+
+    let currentTitle = 0;
+
+    titleElements.forEach((element, i) => {
+        element.textContent = titles[i];
+        element.classList.toggle("active", i === 0);
+    });
+
+    if (titleElements.length > 1) {
+        setInterval(() => {
+            titleElements[currentTitle].classList.remove("active");
+
+            currentTitle = (currentTitle + 1) % titleElements.length;
+
+            titleElements[currentTitle].classList.add("active");
+        }, 3000);
+    }
+
+
+    // 3. Dark and light theme
+    const themeToggle = document.getElementById("theme-toggle");
+    const themeIcon = themeToggle.querySelector("i");
+
+    function setTheme(light) {
+        document.body.classList.toggle("day-mode", light);
+        document.body.classList.toggle("dark-mode", !light);
+
+        themeIcon.classList.toggle("fa-sun", !light);
+        themeIcon.classList.toggle("fa-moon", light);
+    }
+
+    const hour = new Date().getHours();
+    setTheme(hour >= 6 && hour < 18);
+
+    themeToggle.addEventListener("click", () => {
+        setTheme(!document.body.classList.contains("day-mode"));
+    });
+
+
+    // 4. Chat elements
+    const chatIcon = document.getElementById("chat-icon");
+    const chatClose = document.getElementById("chat-close");
+    const chatMessages = document.getElementById("chat-messages");
+    const userInput = document.getElementById("user-input");
+    const sendButton = document.getElementById("send-btn");
+    const typingIndicator = document.getElementById("typing-indicator");
+    const chatOverlay = document.getElementById("chat-overlay");
+    const openChatLink = document.getElementById("open-chat");
+
+    function openChat() {
+        document.body.classList.add("chat-open");
+
+        if (window.innerWidth <= 768) {
+            chatOverlay.style.display = "block";
+        }
+
+        setTimeout(() => userInput.focus(), 300);
+    }
+
+    function closeChat() {
+        document.body.classList.remove("chat-open");
+        chatOverlay.style.display = "none";
+    }
+
+    chatIcon.addEventListener("click", openChat);
+    chatClose.addEventListener("click", closeChat);
+    chatOverlay.addEventListener("click", closeChat);
+
+    if (openChatLink) {
+        openChatLink.addEventListener("click", event => {
+            event.preventDefault();
+            openChat();
+        });
+    }
+
+
+    // 5. Display chat messages
+    function addMessage(message, sender) {
+        const element = document.createElement("div");
+
+        element.classList.add("message", `${sender}-message`);
+        element.textContent = message;
+
+        chatMessages.appendChild(element);
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+    }
+
+
+    // 6. Professional information and chatbot responses
+    const responses = [
+
+        {
+            keywords: ["who are you", "your name", "introduce yourself", "about anmol"],
+            answer: "I'm Anmol Chalise, a Product Leader and Co-founder & Chief Product Officer at Gurkha Labs. I have 11+ years of experience in technology, including 7+ years in product management, product ownership, and product leadership."
+        },
+
+        {
+            keywords: ["product experience", "product management", "product background", "product leader", "product career", "chief product officer", "cpo"],
+            answer: "Anmol has 7+ years of experience in product management, product ownership, and product leadership. His experience includes product strategy, roadmap development, product discovery, stakeholder management, cross-functional team leadership, and end-to-end product development."
+        },
+
+        {
+            keywords: ["experience", "years of experience", "11 years", "technology background", "career"],
+            answer: "Anmol has 11+ years of overall technology experience, including 7+ years in product management and leadership. His career began in software development before progressing into product management, product ownership, and product leadership."
+        },
+
+        {
+            keywords: ["software development", "developer", "engineering", "technical background", "software architecture"],
+            answer: "Anmol started his career in software development and has around 3 years of software development experience. This technical foundation helps him bridge business requirements, product strategy, and engineering execution."
+        },
+
+        {
+            keywords: ["gurkha labs", "company", "where do you work", "current role", "cofounder", "co-founder"],
+            answer: "Anmol is the Co-founder & Chief Product Officer at Gurkha Labs, a senior-led software studio helping startups and organizations design, build, and scale web applications, mobile apps, AI-powered products, and custom software."
+        },
+
+        {
+            keywords: ["services", "what do you do", "what does gurkha labs do", "offerings", "solutions"],
+            answer: "Gurkha Labs provides web application development, mobile app development, AI integration, SaaS development, custom software engineering, product development, UI/UX implementation, API development, cloud solutions, and technical consulting."
+        },
+
+        {
+            keywords: ["ai", "artificial intelligence", "machine learning", "ai products"],
+            answer: "Anmol works with AI-powered product development and practical AI integration. Gurkha Labs helps businesses build AI applications, integrate AI into existing products, and automate workflows."
+        },
+
+        {
+            keywords: ["product strategy", "roadmap", "product discovery", "product development"],
+            answer: "Anmol focuses on product strategy, product discovery, roadmap development, stakeholder alignment, and end-to-end product execution, bringing business goals, user needs, and technology together."
+        },
+
+        {
+            keywords: ["islington", "external supervisor", "college", "students", "teaching", "mentor"],
+            answer: "Alongside his work at Gurkha Labs, Anmol serves as an External Supervisor for Final Year Projects at Islington College, mentoring undergraduate students in research, software development, and product execution."
+        },
+
+        {
+            keywords: ["team", "leadership", "manage", "cross functional"],
+            answer: "Anmol has experience working with cross-functional teams across product, engineering, design, and business functions, helping teams align their goals and deliver meaningful digital products."
+        },
+
+        {
+            keywords: ["hire", "job", "recruiter", "opportunity", "open to work", "looking for a job"],
+            answer: "Anmol is an experienced product professional with a background in product management, product ownership, and product leadership. You can connect with him on LinkedIn to discuss relevant product leadership opportunities."
+        },
+
+        {
+            keywords: ["project", "partnership", "collaboration", "business", "client"],
+            answer: "Anmol is always open to discussing new product ideas, business opportunities, and meaningful collaborations. Gurkha Labs also partners with startups and organizations looking to build or scale web, mobile, and AI products."
+        },
+
+        {
+            keywords: ["cost", "price", "budget", "quote"],
+            answer: "Every project is different. After understanding your requirements, Gurkha Labs can provide a tailored proposal, estimated budget, and delivery timeline."
+        },
+
+        {
+            keywords: ["contact", "email", "phone", "linkedin", "reach", "get in touch"],
+            answer: "You can reach Anmol at anmolchalise.np@gmail.com, connect on LinkedIn at https://np.linkedin.com/in/anmolchalise, or visit https://gurkhalabs.com/."
+        },
+
+        {
+            keywords: ["skills", "expertise", "tech stack", "specialization"],
+            answer: "Anmol's expertise spans product strategy, product management, product ownership, software development, technical architecture, web and mobile applications, AI integration, stakeholder management, and cross-functional leadership."
+        },
+
+        {
+            keywords: ["hello", "hi", "hey"],
+            answer: "Hello! Great to meet you. I'm Anmol's AI assistant. Feel free to ask me about his product leadership experience, Gurkha Labs, technology background, or current work."
+        }
+
+    ];
+
+
+    // 7. Find chatbot response
+    function getBotResponse(message) {
+        const text = message.toLowerCase().trim();
+
+        for (const item of responses) {
+            if (item.keywords.some(keyword => text.includes(keyword))) {
+                return item.answer;
+            }
+        }
+
+        return "Thanks for your question! I can help you learn about Anmol's 11+ years in technology, 7+ years in product management, his role at Gurkha Labs, product leadership experience, or his work at Islington College. You can also contact him at anmolchalise.np@gmail.com.";
+    }
+
+
+    // 8. Send chat message
+    function sendMessage() {
+        const message = userInput.value.trim();
+
+        if (!message || sendButton.disabled) return;
+
+        addMessage(message, "user");
+        userInput.value = "";
+
+        typingIndicator.style.display = "block";
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+
+        sendButton.disabled = true;
+
+        setTimeout(() => {
+            typingIndicator.style.display = "none";
+
+            addMessage(getBotResponse(message), "bot");
+
+            sendButton.disabled = false;
+        }, 1000);
+    }
+
+    sendButton.addEventListener("click", sendMessage);
+
+    userInput.addEventListener("keypress", event => {
+        if (event.key === "Enter") {
+            sendMessage();
+        }
+    });
+
+});
